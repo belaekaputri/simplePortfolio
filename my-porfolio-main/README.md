@@ -1,4 +1,5 @@
 # myportfolio
+![myportfolio](https://github.com/belaekaputri/simplePortfolio/assets/50755376/6dee37a3-28d8-4118-8857-b5dfaa8fa0ed)
 
 ## Project setup
 ```
